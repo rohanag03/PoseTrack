@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reevald/ai-workout-assistant.git"
+    "url": "git+https://github.com/rohanag03/PoseTrack.git"
   },
   "author": "Moch. Galang Rivaldo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/reevald/ai-workout-assistant/issues"
+    "url": "https://github.com/rohanag03/PoseTrack/issues"
   },
-  "homepage": "https://github.com/reevald/ai-workout-assistant#readme",
+  "homepage": "https://github.com/rohanag03/PoseTrack#readme",
   "devDependencies": {
     "eslint": "^8.32.0",
     "eslint-config-airbnb-base": "^15.0.0",
